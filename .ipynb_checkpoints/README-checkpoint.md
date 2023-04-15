@@ -1,7 +1,7 @@
 # ML_NLP-Task
-this project is an assessment project for AIM Technologies company
+this project is an assessment project for AIM Technologies company done by Ahmed Salama(salama4ai@gmail.com)
+i made 5 notebooks
 
-there are 5 notebooks:-
 1- data fetching
 2- Data pre-processing
 3- Model Training (DL)
